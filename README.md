@@ -1,6 +1,6 @@
 # calories_calculator
 
- A calorie calculator that includes a BMI calculator
+A calorie calculator that includes a BMI calculator, BMR calculation and required calories per day.
 
 Install psycopg2 for database connection.
 
